@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weihnachtsspiel – Erinnerungen</title>
+</head>
+<body>
+  <div class="card">
+    <h1>📸 Erinnerungen</h1>
+
+    <p>
+      <strong>Aufgabe 2:</strong><br>
+      Denkt an einen gemeinsamen Moment,<br>
+      der euch bis heute ein Lächeln ins Gesicht zaubert.<br>
+      Erzählt ihn euch kurz.
+    </p>
+
+    <hr>
+
+    <p>
+      <strong>Kleiner Hinweis:</strong><br>
+      Euer Geschenk ist kein Gegenstand.
+    </p>
+
+    <hr>
+
+    <p>
+      Der nächste Code wartet<br>
+      <strong>dort, wo man das Haus verlässt</strong>.
+    </p>
+
+    <div class="footer">🎄✨</div>
+  </div>
+</body>
+</html>
