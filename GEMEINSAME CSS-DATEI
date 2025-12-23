@@ -1,0 +1,40 @@
+<style>
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background: linear-gradient(to bottom, #7b1e1e, #b22222);
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.95);
+  color: #4a2c2a;
+  padding: 2rem;
+  border-radius: 16px;
+  max-width: 600px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+h1 {
+  color: #b22222;
+  margin-bottom: 1rem;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: #d4af37;
+  margin: 1.5rem 0;
+}
+
+.footer {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #7b1e1e;
+}
+</style>
