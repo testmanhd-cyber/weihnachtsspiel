@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weihnachtsgeschenk</title>
+</head>
+<body>
+  <div class="card">
+    <h1>🎁 Herzlichen Glückwunsch 🎁</h1>
+
+    <p>
+      Ihr habt alle Aufgaben gemeinsam gemeistert.
+    </p>
+
+    <hr>
+
+    <p>
+      <strong>Euer Weihnachtsgeschenk:</strong><br>
+      Ein gemeinsamer <strong>Wochenendtrip</strong> 🧳<br>
+      Das Reiseziel dürft ihr selbst auswählen.
+    </p>
+
+    <hr>
+
+    <p>
+      Zeit füreinander,<br>
+      neue Eindrücke<br>
+      und schöne Erinnerungen warten auf euch ❤️
+    </p>
+
+    <div class="footer">✨ Frohe Weihnachten ✨</div>
+  </div>
+</body>
+</html>
