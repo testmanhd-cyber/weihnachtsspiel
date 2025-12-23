@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weihnachtsspiel – Entscheidungen</title>
+</head>
+<body>
+  <div class="card">
+    <h1>✨ Entscheidungen ✨</h1>
+
+    <p>
+      <strong>Aufgabe 4:</strong><br>
+      Entscheidet euch gemeinsam:
+    </p>
+
+    <p>
+      🌊 Meer oder ⛰️ Berge<br>
+      🏙️ Stadt oder 🌲 Natur<br>
+      😌 Entspannen oder 🚶‍♀️ Entdecken
+    </p>
+
+    <hr>
+
+    <p>
+      Diese Entscheidungen sind wichtig.
+    </p>
+
+    <p>
+      Der letzte Code wartet<br>
+      <strong>dort, wo man sich ausruht</strong>.
+    </p>
+
+    <div class="footer">🎄</div>
+  </div>
+</body>
+</html>
