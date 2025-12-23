@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weihnachtsspiel – Unterwegs</title>
+</head>
+<body>
+  <div class="card">
+    <h1>🧳 Unterwegs</h1>
+
+    <p>
+      <strong>Aufgabe 3:</strong><br>
+      Stellt euch vor, ihr würdet spontan wegfahren.<br>
+      Nennt abwechselnd Dinge, die ihr einpacken würdet.
+    </p>
+
+    <hr>
+
+    <p>
+      <strong>Hinweis:</strong><br>
+      Ohne dieses Ding kommt man nicht weit.
+    </p>
+
+    <hr>
+
+    <p>
+      Der nächste Code befindet sich<br>
+      <strong>dort, wo man Pläne macht</strong>.
+    </p>
+
+    <div class="footer">🎁</div>
+  </div>
+</body>
+</html>
